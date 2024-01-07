@@ -1,4 +1,4 @@
-This is a simple Simon Says Game
+*Simon Says Game*
 How to play?
 # there will be 4 colors, a color will blink when the game starts.
 # click on the same color which blinked and if u got it right, u'll advance to nect lvl/round
